@@ -54,4 +54,4 @@ async def on_message(message):
     if message.content.startswith('!help'):
         await message.channel.send("> `Command`: `!search <NFT Project Name>`")
 
-client.run('OTkzMjk2MTE2ODczNDI5MTEy.GJkbG6.IUEKvS0axE7tU9FrubtFwasO6hicD1lKwOoU-A')
+client.run('')
