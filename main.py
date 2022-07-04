@@ -73,4 +73,4 @@ async def on_message(message):
     if message.content.startswith('!help'):
         await message.channel.send("> Scores go `-1.0` - `1.0` (With 1 being most positive and -1 being the most negative) \n > `Command`: `!search <NFT Project Name>`")
 
-client.run('OTkzMjk2MTE2ODczNDI5MTEy.GBmncs._xxB4kknrGOWaL2TrAdSENzTGrPIZIT2voCvZ8')
+client.run('')
